@@ -21,6 +21,7 @@ from email import utils
 from email.mime.text import MIMEText
 import datetime
 
+
 # define pins
 CS = 18
 MOSI = 23
